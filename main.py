@@ -3,8 +3,6 @@ from translate import Translator
 
 #voice
 engine = pyttsx3.init()
-v = engine.getProperty('voices')
-engine.setProperty('voice', v[1].id)
 
 #translate
 while True:
