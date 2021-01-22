@@ -1,2 +1,3 @@
 # Requirements
 translate
+pyttsx3
